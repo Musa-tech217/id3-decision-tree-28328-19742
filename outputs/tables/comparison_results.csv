@@ -1,0 +1,7 @@
+Dataset,Algorithm,Accuracy,Tree Size,Train Time (ms)
+Tennis,Custom ID3,1.0,8,530.4869000101462
+Tennis,sklearn DecisionTreeClassifier,0.6666666666666666,9,29.746599961072206
+Sunburn,Custom ID3,1.0,6,1077.6508999988437
+Sunburn,sklearn DecisionTreeClassifier,0.5,5,17.99429999664426
+Iris,Custom ID3,0.9666666666666667,17,1466.3727000588551
+Iris,sklearn DecisionTreeClassifier,0.9666666666666667,15,35.792999900877476

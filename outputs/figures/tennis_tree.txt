@@ -1,0 +1,10 @@
+outlook
+├── Overcast -> 1
+├── Rain
+│   └── wind
+│       ├── Strong -> 0
+│       └── Weak -> 1
+└── Sunny
+    └── humidity
+        ├── High -> 0
+        └── Normal -> 1

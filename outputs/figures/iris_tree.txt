@@ -1,0 +1,24 @@
+petal width (cm)
+├── high
+│   └── sepal width (cm)
+│       ├── high -> virginica
+│       ├── low -> virginica
+│       └── medium
+│           └── petal length (cm)
+│               ├── high
+│               │   └── sepal length (cm)
+│               │       ├── high -> virginica
+│               │       └── medium -> virginica
+│               └── medium
+│                   └── sepal length (cm)
+│                       └── medium -> virginica
+├── low -> setosa
+└── medium
+    └── petal length (cm)
+        ├── high
+        │   └── sepal length (cm)
+        │       ├── high -> virginica
+        │       └── medium
+        │           └── sepal width (cm)
+        │               └── low -> virginica
+        └── medium -> versicolor

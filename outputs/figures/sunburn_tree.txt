@@ -1,0 +1,8 @@
+Height
+├── Average -> Sunburnt
+├── Medium -> None
+├── Short
+│   └── Lotion
+│       ├── No -> Sunburnt
+│       └── Yes -> None
+└── Tall -> None

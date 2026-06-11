@@ -1,0 +1,5 @@
+Metric,Unpruned,Pruned
+Training Accuracy,1.0,1.0
+Validation Accuracy,1.0,1.0
+Test Accuracy,1.0,1.0
+Number of Nodes,8.0,8.0
